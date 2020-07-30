@@ -5,7 +5,7 @@
 </h1>
 
 <p align='center'>
-  A Data Sciene enthusiast from Meerut, India.
+  A Data Science enthusiast from Meerut, India.
 </p>
 
 
